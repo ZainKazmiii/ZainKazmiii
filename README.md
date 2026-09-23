@@ -2,8 +2,6 @@
 
 Customer-facing technical professional in Mississauga, Canada, focused on software implementation, technical support, workflow design, testing, and practical web and mobile projects.
 
-[Implementation portfolio](https://zain-implementation-portfolio.netlify.app/)
-
 ## Selected Work
 
 ### [Kazword](https://github.com/ZainKazmiii/KAZWORD)
@@ -29,10 +27,6 @@ A responsive catering workflow prototype covering customer intake, quotes, appro
 A small Godot mobile game with hold-to-rise controls, procedural shark walls, pixel-mask collision checks, scoring, and automatic restart. I exported it to Android and used hands-on playtesting to tune the movement and difficulty.
 
 **Stack:** Godot, GDScript, Android export
-
-### [SaaS Implementation Portfolio](https://zain-implementation-portfolio.netlify.app/)
-
-An independent, simulated implementation case study covering discovery, requirements, workflow configuration, data mapping, permissions, UAT, go-live planning, automation design, and handoff. It is clearly labelled as simulated portfolio work rather than paid client delivery.
 
 ## Toolkit
 
