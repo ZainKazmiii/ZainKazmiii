@@ -6,8 +6,6 @@ Play project demos and explore my laptop-and-phone workspace.
 
 I build practical apps, business-workflow tools and games, drawing on a background in customer service and technical support. Based in Mississauga, Canada.
 
-I work hands-on with AI tools to explore ideas, develop features and investigate problems. I turn what I want to build into clear instructions, test the results and refine the experience through repeated feedback.
-
 ## Selected Work
 
 ### [Kazword](https://github.com/ZainKazmiii/KAZWORD)
@@ -33,6 +31,10 @@ A browser-local catering workflow application covering customer intake, quotes, 
 A 2D Godot mobile game with hold-to-rise controls, procedural shark walls, pixel-mask collision checks, scoring, and automatic restart. I exported it to Android and used hands-on playtesting to tune the movement and difficulty.
 
 **Stack:** Godot, GDScript, Android export
+
+## How I build
+
+I use AI-assisted development to turn ideas into working features. I define user flows and detailed requirements, test how the software behaves, investigate issues and refine the experience across devices.
 
 ## Toolkit
 
