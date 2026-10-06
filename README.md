@@ -4,9 +4,9 @@
 
 Play project demos and explore my laptop-and-phone workspace.
 
-I build practical apps, business-workflow tools and games using AI-assisted development, drawing on a background in customer service and technical support. Based in Mississauga, Canada.
+I build practical apps, business-workflow tools and games, drawing on a background in customer service and technical support. Based in Mississauga, Canada.
 
-I use Codex, ChatGPT and other AI tools to explore ideas, develop features, investigate issues and refine the user experience through hands-on testing.
+I work hands-on with AI tools to explore ideas, develop features and investigate problems. I turn what I want to build into clear instructions, test the results and refine the experience through repeated feedback.
 
 ## Selected Work
 
@@ -37,6 +37,8 @@ A 2D Godot mobile game with hold-to-rise controls, procedural shark walls, pixel
 ## Toolkit
 
 JavaScript | TypeScript | React | Next.js | React Native | Godot | GDScript | HTML | CSS | Git | GitHub | Supabase
+
+**AI tools I have used:** Codex, ChatGPT, Claude, Gemini, DeepSeek, Grok, Microsoft Copilot, Muse and Dot.
 
 ## Connect
 
