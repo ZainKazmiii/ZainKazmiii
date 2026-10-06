@@ -1,5 +1,9 @@
 # Zain Kazmi
 
+### [Explore my interactive portfolio →](https://zain-kazmi-desk.netlify.app/)
+
+Play project demos and explore my laptop-and-phone workspace.
+
 Customer-facing technical professional in Mississauga, Canada, focused on software implementation, technical support, workflow design, testing, and practical web and mobile projects.
 
 ## Selected Work
