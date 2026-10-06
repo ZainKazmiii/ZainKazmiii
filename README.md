@@ -4,7 +4,9 @@
 
 Play project demos and explore my laptop-and-phone workspace.
 
-Customer-facing technical professional in Mississauga, Canada, focused on software implementation, technical support, workflow design, testing, and practical web and mobile projects.
+I build practical apps, business-workflow tools and games using AI-assisted development, drawing on a background in customer service and technical support. Based in Mississauga, Canada.
+
+I use Codex, ChatGPT and other AI tools to explore ideas, develop features, investigate issues and refine the user experience through hands-on testing.
 
 ## Selected Work
 
@@ -22,13 +24,13 @@ A cross-platform app for coordinating group coffee orders. Hosts can create a ru
 
 ### [Catering Operations Demo](https://github.com/ZainKazmiii/catering-operations-demo)
 
-A responsive catering workflow prototype covering customer intake, quotes, approval, invoices, production reports, and delivery handoff. It demonstrates shared browser state and detailed desktop and mobile operational flows.
+A browser-local catering workflow application covering customer intake, quotes, approval, invoices, production reports, and delivery handoff. It uses shared browser state and desktop/mobile operational flows; payment, email and webhook actions are simulated.
 
 **Stack:** JavaScript, HTML, CSS, localStorage
 
 ### [Flappy Fish](https://github.com/ZainKazmiii/flappy-fish)
 
-A small Godot mobile game with hold-to-rise controls, procedural shark walls, pixel-mask collision checks, scoring, and automatic restart. I exported it to Android and used hands-on playtesting to tune the movement and difficulty.
+A 2D Godot mobile game with hold-to-rise controls, procedural shark walls, pixel-mask collision checks, scoring, and automatic restart. I exported it to Android and used hands-on playtesting to tune the movement and difficulty.
 
 **Stack:** Godot, GDScript, Android export
 
